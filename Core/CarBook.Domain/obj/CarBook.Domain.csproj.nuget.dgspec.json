@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Hp\\Documents\\c#\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj": {}
+    "C:\\Users\\Hp\\Documents\\c#\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Hp\\Documents\\c#\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj": {
+    "C:\\Users\\Hp\\Documents\\c#\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Hp\\Documents\\c#\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Documents\\c#\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj",
         "projectName": "CarBook.Domain",
-        "projectPath": "c:\\Users\\Hp\\Documents\\c#\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj",
+        "projectPath": "C:\\Users\\Hp\\Documents\\c#\\CarBook\\Core\\CarBook.Domain\\CarBook.Domain.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Hp\\Documents\\c#\\CarBook\\Core\\CarBook.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Hp\\Documents\\c#\\CarBook\\Core\\CarBook.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
